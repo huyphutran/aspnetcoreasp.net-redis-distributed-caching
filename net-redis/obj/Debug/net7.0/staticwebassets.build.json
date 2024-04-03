@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yuaRzcP7ErlK/7+YVqF8aL1xWiPy/q8+kfyzQdDISHs=",
+  "Source": "net-redis",
+  "BasePath": "_content/net-redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
