@@ -18,8 +18,9 @@ builder.Services.AddStackExchangeRedisCache(options =>
     options.Configuration = redisUrl;
 });
 
-builder.Services.AddTransient<ServiceOneClass>();
-
+builder.Services.AddTransient<ServiceOneClass>()
+    .AddTransient<ServiceTwoClass>()
+    .AddTransient<ServiceThreeClass>();
 
 
 var app = builder.Build();

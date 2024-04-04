@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net-redis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45282fafc8d3a0dec7d86ad457d2da8d3a8199f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("net-redis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net-redis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -39,3 +39,4 @@ E:\aspnetcoreasp.net-redis-distributed-caching\net-redis\bin\Debug\net7.0\Micros
 E:\aspnetcoreasp.net-redis-distributed-caching\net-redis\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 E:\aspnetcoreasp.net-redis-distributed-caching\net-redis\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
 E:\aspnetcoreasp.net-redis-distributed-caching\net-redis\bin\Debug\net7.0\StackExchange.Redis.dll
+E:\aspnetcoreasp.net-redis-distributed-caching\net-redis\obj\Debug\net7.0\net-redis.sourcelink.json
